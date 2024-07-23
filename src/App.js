@@ -1,8 +1,13 @@
+import React from "react";
+import Anasayfa from "./sayfalar/anasayfa";
+
+
+
 
 function App() {
   return (
     <div className="App">
-      aaa
+    <Anasayfa></Anasayfa>
     </div>
   );
 }
