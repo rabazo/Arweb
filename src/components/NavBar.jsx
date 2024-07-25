@@ -12,6 +12,7 @@ const Nav=styled.div`
     display: flex;
     flex-direction: row;
     align-items: center;
+    color: #494848;
     
 
 
@@ -40,7 +41,7 @@ const Nav=styled.div`
         margin-right: 1vw;
     }
     .search-icon{
-        margin-left: 45vw;
+        margin-left: 49vw;
         font-size: 3vh;
         border-right: 1px solid grey;
         padding: 1vh;
@@ -57,7 +58,7 @@ export default function Navbar(){
     return(
         <Nav>
             <IoMenuOutline className="menu-icon"></IoMenuOutline>
-            <h1>AR-WEB</h1>
+            <h1>Code-Duo</h1>
             <h2>ANASAYFA</h2>
             <h2>HABER</h2>
             <h2>KATEGORİLER</h2>
