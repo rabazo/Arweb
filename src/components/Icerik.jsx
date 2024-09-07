@@ -48,11 +48,13 @@ export default function Icerik(){
             <div className="haber-container">
             <div className="haber-2">
                 <div className="logo"></div>
+
             </div>
             <div className="haber-2">
                 <div className="logo"></div>
             </div>
             <div className="haber-3"></div>
+            <h1>Mal Azo</h1>
             </div>
           
         </Icerikler>
