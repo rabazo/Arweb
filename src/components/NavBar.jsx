@@ -23,7 +23,7 @@ const Nav=styled.div`
     h1{
         margin-left: 3vw;
         font-family: "Roboto Condensed", sans-serif;
-        font-size: 4vh;
+        font-size: 3vh;
     }
     h2{
         margin-left: 3vw;
@@ -41,16 +41,16 @@ const Nav=styled.div`
         margin-right: 1vw;
     }
     .search-icon{
-        margin-left: 49vw;
+        margin-left: 46vw;
         font-size: 3vh;
         border-right: 1px solid grey;
-        padding: 1vh;
+        padding: 2vh;
     }
     .insta-icon{
         margin-left:1vw;
-        font-size: 3vh;
+        font-size: 3.5vh;
         border-left: 1px solid grey;
-        padding:1vh;
+        padding:2vh;
     }
 `
 
