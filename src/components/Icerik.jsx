@@ -54,7 +54,7 @@ export default function Icerik(){
                 <div className="logo"></div>
             </div>
             <div className="haber-3"></div>
-            <h1>Mal Azo</h1>
+            <h1>Mal</h1>
             </div>
           
         </Icerikler>
