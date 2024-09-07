@@ -54,7 +54,7 @@ export default function Icerik(){
                 <div className="logo"></div>
             </div>
             <div className="haber-3"></div>
-            <h1>BURAYI DEĞİŞTİRİYORUM</h1>
+            <h1>BURAYI DEĞİŞTİİYORUM</h1>
             </div>
           
         </Icerikler>
