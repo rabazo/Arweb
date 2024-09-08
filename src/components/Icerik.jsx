@@ -3,11 +3,11 @@ import styled from "styled-components";
 
 
 const Icerikler=styled.div`
-width: 86vw;
+width: 91vw;
 height: 60vh;
 display: flex;
 margin-top: 1vh;
-margin-left: 8vw;
+margin-left: 3vw;
 
 .haber-1{
     width: 50vw;
@@ -19,7 +19,7 @@ margin-left: 8vw;
     flex-direction: column;
 }
 .haber-2{
-    width: 36vw;
+    width: 41vw;
     height: 15vh;
     background-color: #007bff;
     margin-bottom: 0.1vh;
@@ -33,7 +33,7 @@ margin-left: 8vw;
     margin-top: 2vh;
 }
 .haber-3{
-    width: 36vw;
+    width: 41vw;
     height: 30vh;
     background-color: #eeff00;
     margin-bottom: 0.1vh;
@@ -48,13 +48,11 @@ export default function Icerik(){
             <div className="haber-container">
             <div className="haber-2">
                 <div className="logo"></div>
-
             </div>
             <div className="haber-2">
                 <div className="logo"></div>
             </div>
             <div className="haber-3"></div>
-            <h1>raobooo</h1>
             </div>
           
         </Icerikler>

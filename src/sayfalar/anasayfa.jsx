@@ -1,6 +1,7 @@
 import React from "react";
 import Navbar from "../components/NavBar";
 import Icerik from "../components/Icerik";
+import YayinAkisi from "../components/YayinAkisi";
 
 
 export default function Anasayfa(){
@@ -8,6 +9,7 @@ export default function Anasayfa(){
         <div>
         <Navbar></Navbar>
         <Icerik></Icerik>
+        <YayinAkisi></YayinAkisi>
         </div>
     )
 }
